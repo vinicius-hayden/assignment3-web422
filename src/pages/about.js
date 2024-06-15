@@ -23,7 +23,7 @@ export default function About({ listing }) {
             Feel free to explore my website!
           </p>
           <p>
-            This is a specific listing from the website that I'd like to stay
+            This is a specific listing from the website that I would like to stay
             for a bit:
           </p>
           <Link href={`/listing/${listing._id}`} legacyBehavior>
